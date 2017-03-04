@@ -16,7 +16,7 @@ Contents:
 </ul>
 
 
-<h2><a name="1-get-unstuck">1. Get unstuck by using CPR</a>
+<h2><a name="1-get-unstuck">1. Get unstuck by using CPR</a></h2>
 
 Get unstuck by spotting conversations that are keeping me from what I want, then unbundling them by talking about the "CPR" abbreviation.
 
@@ -27,7 +27,7 @@ Get unstuck by spotting conversations that are keeping me from what I want, then
 * Relationship: how the problem is affecting my relationship with the other person
 
 
-<h2><a name="2-start-with-heart">2. Start with my heart</a>
+<h2><a name="2-start-with-heart">2. Start with my heart</a></h2>
 
 Start with my heart to keep my focus on what I really want.
 
@@ -38,7 +38,7 @@ Start with my heart to keep my focus on what I really want.
 * How would I behave if I really did?
 
 
-<h2><a name="3-master-my-stories">3. Master my stories</a>
+<h2><a name="3-master-my-stories">3. Master my stories</a></h2>
 
 Master my stories -- even when I'm angry, scared, or hurt -- by separating facts from stories.
 
@@ -51,7 +51,7 @@ Skill: Tell the rest of the story by asking three questions.
 * What should I do right now to move toward what I really want? Watch out for any "helpless" story.
 
 
-<h2><a name="4-state-my-path">4. STATE my path</a>
+<h2><a name="4-state-my-path">4. STATE my path</a></h2>
 
 STATE my path by speaking persuasively, not abrasively.
 
@@ -66,7 +66,7 @@ STATE my path by speaking persuasively, not abrasively.
 * Encourage testing.
 
 
-<h2><a name="5-learn-to-look">5. Learn to look</a>
+<h2><a name="5-learn-to-look">5. Learn to look</a></h2>
 
 Learn to look for when when safety is at risk.
 
@@ -75,7 +75,7 @@ Learn to look for when when safety is at risk.
 * Look for silence and violence in myself and others.
 
 
-<h2><a name="6-make-it-safe-1">6. Make it safe</a>
+<h2><a name="6-make-it-safe-1">6. Make it safe</a></h2>
 
 Make it safe to talk by restoring safety.
 
@@ -84,7 +84,7 @@ Make it safe to talk by restoring safety.
 * When there is a misunderstanding, use the "Contrast" concept.
 
 
-<h2><a name="7-make-it-safe-2">7. Create mutual purpose via CRIB</a>
+<h2><a name="7-make-it-safe-2">7. Create mutual purpose via CRIB</a></h2>
 
 Create mutual purpose by using "CRIB" abbreviation.
 
@@ -97,7 +97,7 @@ Create mutual purpose by using "CRIB" abbreviation.
 * Brainstorm new strategies.
 
 
-<h2><a name="8-explore-others-paths">8. Explore others' paths via AMPP</a>
+<h2><a name="8-explore-others-paths">8. Explore others' paths via AMPP</a></h2>
 
 Explore others' paths by using the "AMPP" abbreviation.
 
@@ -110,7 +110,7 @@ Explore others' paths by using the "AMPP" abbreviation.
 * Prime when I'm not getting anywhere.
 
 
-<h2><a name="9-move-to-action">9. Move to action via WWWF</a>
+<h2><a name="9-move-to-action">9. Move to action via WWWF</a></h2>
 
 Move to action by using the "WWWF" abbreviation.
 
