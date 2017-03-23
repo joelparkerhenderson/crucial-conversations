@@ -2,6 +2,10 @@
 
 Credit: [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822)
 
+For a summary of the book: [Wikisummaries: Crucial Conversations: Tools for Talking When Stakes Are High](http://www.wikisummaries.org/wiki/Crucial_Conversations:_Tools_for_Talking_When_Stakes_are_High)
+
+This short page is my personal refresher of my reading of the Crucial Conversations book and my coursework attending the Crucial Conversatons course. 
+
 Contents:
 <ul>
 <li><a href="#1-get-unstuck">1. Get unstuck by using CPR</a>
