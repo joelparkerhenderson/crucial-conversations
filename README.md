@@ -96,7 +96,7 @@ Create mutual purpose by using "CRIB" abbreviation.
 
 * Recognize the purpose behind the strategy.
 
-* Invent a mutual purpose, such a a more creative uporse, or higher purpose.
+* Invent a mutual purpose, such a a more creative purpose, or higher purpose.
 
 * Brainstorm new strategies.
 
