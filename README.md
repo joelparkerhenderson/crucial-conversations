@@ -4,23 +4,22 @@ Credit: [Crucial Conversations: Tools for Talking When Stakes Are High](https://
 
 For a summary of the book: [Wikisummaries: Crucial Conversations: Tools for Talking When Stakes Are High](http://www.wikisummaries.org/wiki/Crucial_Conversations:_Tools_for_Talking_When_Stakes_are_High)
 
-This short page is my personal refresher of my reading of the Crucial Conversations book and my coursework attending the Crucial Conversatons course. 
+This is a refresher of reading the Crucial Conversations book and coursework attending the Crucial Conversatons course.
 
 Contents:
-<ul>
-<li><a href="#1-get-unstuck">1. Get unstuck by using CPR</a>
-<li><a href="#2-start-with-heart">2. Start with heart</a>
-<li><a href="#3-master-my-stories">3. Master my stories</a>
-<li><a href="#4-state-my-path">4. STATE my Path</a>
-<li><a href="#5-learn-to-look">5. Learn to look</a>
-<li><a href="#6-make-it-safe-1">6. Make it safe</a>
-<li><a href="#7-make-it-safe-2">7. Create mutual purpose</a>
-<li><a href="#8-explore-others-paths">8. Explore others' paths by using AMPP</a>
-<li><a href="#9-move-to-action">9. Move to action by using WWWF</a>
-</ul>
+
+* [1. Get unstuck by using CPR](#1-get-unstuck-by-using-cpr)
+* [2. Start with heart](#2-start-with-heart)
+* [3. Master my stories](#3-master-my-stories)
+* [4. STATE my path](#4-state-my-path)
+* [5. Learn to look](#5-learn-to-look)
+* [6. Make it safe](#6-make-it-safe)
+* [7. Create mutual purpose via CRIB](#7-create-mutual-purpose-via-crib)
+* [8. Explore others' paths via AMPP](#8-explore-others-paths-via-ampp)
+* [9. Move to action via WWWF](#9-move-to-action-via-wwwf)
 
 
-<h2><a name="1-get-unstuck">1. Get unstuck by using CPR</a></h2>
+## 1. Get unstuck by using CPR
 
 Get unstuck by spotting conversations that are keeping me from what I want, then unbundling them by talking about the "CPR" abbreviation.
 
@@ -31,9 +30,9 @@ Get unstuck by spotting conversations that are keeping me from what I want, then
 * Relationship: how the problem is affecting my relationship with the other person
 
 
-<h2><a name="2-start-with-heart">2. Start with my heart</a></h2>
+## 2. Start with heart
 
-Start with my heart to keep my focus on what I really want.
+Start with heart to keep my focus on what I really want.
 
 * What am I behaving like I want?
 
@@ -42,7 +41,7 @@ Start with my heart to keep my focus on what I really want.
 * How would I behave if I really did?
 
 
-<h2><a name="3-master-my-stories">3. Master my stories</a></h2>
+## 3. Master my stories
 
 Master my stories -- even when I'm angry, scared, or hurt -- by separating facts from stories.
 
@@ -55,7 +54,7 @@ Skill: Tell the rest of the story by asking three questions.
 * What should I do right now to move toward what I really want? Watch out for any "helpless" story.
 
 
-<h2><a name="4-state-my-path">4. STATE my path</a></h2>
+## 4. STATE my path
 
 STATE my path by speaking persuasively, not abrasively.
 
@@ -70,7 +69,7 @@ STATE my path by speaking persuasively, not abrasively.
 * Encourage testing.
 
 
-<h2><a name="5-learn-to-look">5. Learn to look</a></h2>
+## 5. Learn to look
 
 Learn to look for when when safety is at risk.
 
@@ -79,7 +78,7 @@ Learn to look for when when safety is at risk.
 * Look for silence and violence in myself and others.
 
 
-<h2><a name="6-make-it-safe-1">6. Make it safe</a></h2>
+## 6. Make it safe
 
 Make it safe to talk by restoring safety.
 
@@ -88,7 +87,7 @@ Make it safe to talk by restoring safety.
 * When there is a misunderstanding, use the "Contrast" concept.
 
 
-<h2><a name="7-make-it-safe-2">7. Create mutual purpose via CRIB</a></h2>
+## 7. Create mutual purpose via CRIB
 
 Create mutual purpose by using "CRIB" abbreviation.
 
@@ -101,7 +100,7 @@ Create mutual purpose by using "CRIB" abbreviation.
 * Brainstorm new strategies.
 
 
-<h2><a name="8-explore-others-paths">8. Explore others' paths via AMPP</a></h2>
+## 8. Explore others' paths via AMPP
 
 Explore others' paths by using the "AMPP" abbreviation.
 
@@ -114,7 +113,7 @@ Explore others' paths by using the "AMPP" abbreviation.
 * Prime when I'm not getting anywhere.
 
 
-<h2><a name="9-move-to-action">9. Move to action via WWWF</a></h2>
+## 9. Move to action via WWWF
 
 Move to action by using the "WWWF" abbreviation.
 
@@ -125,5 +124,3 @@ Move to action by using the "WWWF" abbreviation.
 * When are actions complete?
 
 * Followup planning: how/when will we follow up?
-
-
