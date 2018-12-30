@@ -1,4 +1,4 @@
-# Crucial Conversations
+# Crucial conversations
 
 Credit: [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822)
 
