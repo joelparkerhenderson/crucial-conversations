@@ -6,7 +6,7 @@ For a summary of the book: [Wikisummaries: Crucial Conversations: Tools for Talk
 
 For a general introduction to the concepts: [Interested in improving your relationships? Try Nonviolent Communication](https://www.clearerthinking.org/single-post/2019/03/06/Want-to-improve-your-relationships-Try-Nonviolent-Communication-1)
 
-This page is a refresher of reading the Crucial Conversations book and coursework attending the Crucial Conversatons course.
+This page is a refresher of reading the Crucial Conversations book and course.
 
 Contents:
 
