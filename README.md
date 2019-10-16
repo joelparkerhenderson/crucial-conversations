@@ -4,7 +4,7 @@ Credit: [Crucial Conversations: Tools for Talking When Stakes Are High](https://
 
 For a summary of the book: [Wikisummaries: Crucial Conversations: Tools for Talking When Stakes Are High](http://www.wikisummaries.org/wiki/Crucial_Conversations:_Tools_for_Talking_When_Stakes_are_High)
 
-For a general introduction to the concepts: [Interested in improving your relationships? Try Nonviolent Communication](https://www.clearerthinking.org/single-post/2019/03/06/Want-to-improve-your-relationships-Try-Nonviolent-Communication-1)
+For an introduction to the concepts: [Interested in improving your relationships? Try Nonviolent Communication](https://www.clearerthinking.org/single-post/2019/03/06/Want-to-improve-your-relationships-Try-Nonviolent-Communication-1)
 
 This page is a refresher of reading the Crucial Conversations book and course.
 
